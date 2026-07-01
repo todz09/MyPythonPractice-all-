@@ -2,4 +2,4 @@
 <br>
 Practiced all of the Python problem from start till where my practice goes.
 <br>
-<bl>Day 1</bl> -> Fundamentals of Python done and Pushed to git
+<bold>Day 1</boldl> -> Fundamentals of Python done and Pushed to git
